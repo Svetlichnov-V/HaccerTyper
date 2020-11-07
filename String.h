@@ -13,6 +13,7 @@ int strLen(const char* str)
 	}
 }
 
+
 struct String
 {
 	String(const char* strc)

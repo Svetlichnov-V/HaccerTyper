@@ -31,6 +31,7 @@ int FileLen(FILE* file)
 	return lenf;
 }
 
+
 int main()
 {
 	FILE* code = fopen("Text.txt", "r");
